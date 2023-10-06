@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Mayukh
+- 👋 Hi, I’m Mayukh
 - 👀 I’m interested in Web Development, Salesforce Cloud & Designing
-- 💼 I'm a Certified Salesforce Developer
-- 🌱 I’m currently learning Figma & Node JS
-- 💞️ I’m looking to collaborate on Web & Salesforce Projects
+- 💼 <p>A certified Salesforce developer at <a href="https://www.persistent.com/">Persistent Systems</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
+- 🌱 Currently learning Figma & Node JS
+- 💞️ Looking to collaborate on Web & Salesforce Projects
 - 📫 How to reach me mayukhsasmal@outlook.com
 
 <!---
